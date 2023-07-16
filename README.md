@@ -1,0 +1,2 @@
+# .jsonn
+tıktık.json
